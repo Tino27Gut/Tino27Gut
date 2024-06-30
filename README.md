@@ -2,7 +2,7 @@
 
 **`Data Analyst | Sr. Digital Transformation Consultant`**
 
-👋 Hi there! I'm a Data Analyst and Digital Transformation Senior Consultant passionate about automating tasks and deriving insights with code and data. With over 2 years of experience optimizing operations in tech companies, I specialize in Qlik, Power BI, SQL and have a strong foundation in Python, web development and SAP. Always a self-learner, I recently earned my [Data Analytics Certification](https://www.jupidigital.com/certificado/martin-gutierrez). Excited to transition into Data Analyst roles to tackle new challenges with my skills!
+👋 Hi there! I'm a Data Analyst and Digital Transformation Senior Consultant passionate about automating tasks and deriving insights with code and data. With over 2 years of experience optimizing operations in tech companies, I specialize in Qlik, Power BI, SQL and have a strong foundation in Python, web development and SAP. Always a self-learner, I recently earned my [Data Analytics Certification](https://www.jupidigital.com/certificado/martin-gutierrez). Excited about Data Analyst oportunities to tackle new challenges with my skills!
 
 📫 Reach me at: [martingut27@gmail.com](mailto:martingut27@gmail.com)
 
