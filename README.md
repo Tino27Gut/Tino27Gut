@@ -2,7 +2,14 @@
 
 **`Data Analyst | Sr. Digital Transformation Consultant`**
 
-👋 Hi there! I'm a Data Analyst and Digital Transformation Senior Consultant passionate about automating tasks and deriving insights with code and data. With over 2 years of experience optimizing operations in tech companies, I specialize in Qlik, Power BI, SQL and have a strong foundation in Python, web development and SAP. Always a self-learner, I recently earned my [Data Analytics Certification](https://www.jupidigital.com/certificado/martin-gutierrez). Excited about Data Analyst oportunities to tackle new challenges with my skills!
+👋🏻 I am Martín Gutiérrez, a Data Analyst with honors degrees in Business Management and Accounting. Since discovering Business Intelligence tools in my first job, I have become passionate about data analysis and its ability to generate actionable insights that drive business results.
+
+🔎 This curiosity led me on an intensive path of learning and work experience, developing skills in Qlik Sense, Microsoft Power BI, Looker Studio, Python, ETL, Dashboards, and bilingual English. These competencies have allowed me to gain international experience in startups and large tech companies, such as General Atlantic and Mercado Libre, achieving notable objectives:
+
+📊 Managed over 100 initiatives through BI solutions, reducing project management times.
+💎 Facilitated securing over USD 15M in funding for local and international clients.
+📈 Developed dashboards to visualize and control over USD 80M in revenue.
+👨🏻‍💻 Contact me if you are looking for a professional Data Analyst with solid technical and business skills. I am committed to generating valuable analysis and producing results through data and technology applied to business.
 
 📫 Reach me at: [martingut27@gmail.com](mailto:martingut27@gmail.com)
 
@@ -32,24 +39,21 @@
 #
 
 ### 💼 Profesional Experience
-- +2 years automating operations for technology companies.
-- Detection and interpretation of metrics and KPIs.
-- Management of multiple projects simultaneously.
-- Creation of reports highlighting key insights.
-- Production of dashboards and visualizations.
-- Handling of models and databases.
+- Digital Transformation Sr. Consultant | PwC | Jan 2024 - Present
 
-#
+- Research Analyst | Crisil (an S&P Global Company) | Oct 2022 - Dec 2023
 
-### 🤝 Soft Skills
-- Analytical.
-- Optimistic.
-- Organized.
-- Flexible.
-- Collaborative.
-- Results-oriented.
-- Entrepreneurial.
+- Jr. Transacion Services Consultant | CFO Startup | Apr 2022 - Oct 2022
 
+
+### 🎓 Education
+- Diploma in Data Science with Python and R | Jul 2024 - Present
+
+- Certified Data Analyst | Jan 2024 - Jun 2024
+
+- Barchelor's Degree in Business Management (Graduated with Honors) | Mar 2018 - Jul 2022
+
+- Certified Public Accountant | Mar 2018 - Jul 2022
 
 <!--
 **Tino27Gut/Tino27Gut** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
