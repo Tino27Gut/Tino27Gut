@@ -7,8 +7,11 @@
 🔎 This curiosity led me on an intensive path of learning and work experience, developing skills in Qlik Sense, Microsoft Power BI, Looker Studio, Python, ETL, Dashboards, and bilingual English. These competencies have allowed me to gain international experience in startups and large tech companies, such as General Atlantic and Mercado Libre, achieving notable objectives:
 
 📊 Managed over 100 initiatives through BI solutions, reducing project management times.
+
 💎 Facilitated securing over USD 15M in funding for local and international clients.
+
 📈 Developed dashboards to visualize and control over USD 80M in revenue.
+
 👨🏻‍💻 Contact me if you are looking for a professional Data Analyst with solid technical and business skills. I am committed to generating valuable analysis and producing results through data and technology applied to business.
 
 📫 Reach me at: [martingut27@gmail.com](mailto:martingut27@gmail.com)
