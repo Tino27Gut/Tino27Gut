@@ -1,14 +1,14 @@
 # 👨‍💼 Martín Gutiérrez
 
-**`Data Analyst | Sr. Digital Transformation Consultant`**
+**`Data Analyst | Applied Intelligence Analyst`**
 
 👋🏻 I am Martín Gutiérrez, a Data Analyst with honors degrees in Business Management and Accounting. Since discovering Business Intelligence tools in my first job, I have become passionate about data analysis and its ability to generate actionable insights that drive business results.
 
-🔎 This curiosity led me on an intensive path of learning and work experience, developing skills in Qlik Sense, Microsoft Power BI, Looker Studio, Python, ETL, Dashboards, and bilingual English. These competencies have allowed me to gain international experience in startups and large tech companies, such as General Atlantic and Mercado Libre, achieving notable objectives:
+🔎 This curiosity led me on an intensive path of learning and work experience, developing skills in Big Query, SQL, Microsoft Power BI, Tableau, Looker Studio, Python, Dashboards, and bilingual English. These competencies have allowed me to gain international experience in startups and large tech companies, such as General Atlantic, Pedidos Ya and Mercado Libre, achieving notable objectives:
 
 📊 Managed over 100 initiatives through BI solutions, reducing project management times.
 
-💎 Facilitated securing over USD 15M in funding for local and international clients.
+💎 Identified opportunities to optimize customer acquisition and retention campaigns spend in 85%+.
 
 📈 Developed dashboards to visualize and control over USD 80M in revenue.
 
@@ -42,9 +42,13 @@
 #
 
 ### 💼 Profesional Experience
-- Digital Transformation Sr. Consultant | PwC | Jan 2024 - Present
+- Applied Intelligence Analyst | Mercado Libre | Feb 2025 - Present
 
-- Research Analyst | Crisil (an S&P Global Company) | Oct 2022 - Dec 2023
+- Sr. Marketing Strategy Analyst | Pedidos Ya | Aug 2024 - Feb 2025
+
+- Digital Transformation Sr. Consultant | PwC | Jan 2024 - Aug 2024
+
+- Research Analyst | Crisil (an S&P Global Company) | Oct 2022 - Sep 2023
 
 - Jr. Transacion Services Consultant | CFO Startup | Apr 2022 - Oct 2022
 
